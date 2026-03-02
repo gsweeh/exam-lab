@@ -27,7 +27,7 @@ void printArray(int arr[],int n){
    for(int i=0;i<n;i++){
     printf("%d", arr[i]);
   }
- printf("I value\n");
+ printf("I value to be displayed\n");
 }
 
 int main(){
